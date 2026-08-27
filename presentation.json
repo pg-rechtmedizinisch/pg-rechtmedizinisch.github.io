@@ -3,13 +3,13 @@
     "title": "Recht haben. Recht bekommen.",
     "subtitle": "Wahlmodul Medizinrecht · 6.01.4493700b · WiSe 2026/27",
     "presenter": "Dr. med. Philipp Graef · Universitätsmedizin Oldenburg",
-    "legalStatus": "Rechtsstand und Quellen geprüft am 20.08.2026; vor Verwendung aktualisieren",
+    "legalStatus": "Rechtsstand und Quellen geprüft am 26.08.2026; vor Verwendung aktualisieren",
     "edition": "Vollständig optimierte Vollfassung für das Wahlmodul WiSe 2026/27 · ohne juristische Vorkenntnisse",
     "design": "Corporate Design Universität Oldenburg · evidenzbasierte Assertion-Evidence-Dramaturgie · vollständig editierbar",
     "enhanced": true,
-    "generated": "2026-08-20",
-    "slideCount": 407,
-    "version": "Lernapp-Revision 21.08.2026",
+    "generated": "2026-08-26",
+    "slideCount": 451,
+    "version": "Leitentscheidungsatlas 26.08.2026",
     "learningApp": "https://recht-medizinisch-ws-2026-27.hfcg4gmhvr.chatgpt.site"
   },
   "slides": [
@@ -10442,6 +10442,413 @@
         }
       ],
       "footer": "Vor Semesterstart und Gerichtsbesuch prüfen: Gesetzesstand, ÄKN-Satzungen, LG-Geschäftsverteilung und organisatorische Termine."
+    },
+    {
+      "type": "content",
+      "layout": "landmark-intro",
+      "eyebrow": "LEITENTSCHEIDUNGSATLAS · STAND 26.08.2026",
+      "title": "Die Entscheidungen, die das Medizinrecht geprägt haben",
+      "lead": "39 kuratierte Entscheidungen · 31 im Kernbestand",
+      "body": "Tenor oder Leitsatzkern, tragende Aussage, Rechtsstand, Praxistransfer und direkte Fundstelle."
+    },
+    {
+      "type": "content",
+      "layout": "landmark-method",
+      "eyebrow": "METHODENKOMPETENZ · ENTSCHEIDUNGEN RICHTIG LESEN",
+      "title": "Nicht jedes Wort eines Urteils trägt die Rechtsfolge",
+      "items": [
+        {
+          "head": "Tenor",
+          "body": "Verbindliche Entscheidungsformel."
+        },
+        {
+          "head": "Leitsatz",
+          "body": "Verdichteter Rechtssatz zur Orientierung."
+        },
+        {
+          "head": "Tragende Gründe",
+          "body": "Erwägungen, ohne die der Tenor nicht bestehen könnte."
+        },
+        {
+          "head": "Praxisprüfung",
+          "body": "Sachverhalt, Rechtsstand und Folgeprüfung verbinden."
+        }
+      ]
+    },
+    {
+      "type": "content",
+      "layout": "landmark-timeline",
+      "eyebrow": "ENTWICKLUNGSLINIE · 1894 BIS 2025",
+      "title": "Vom Heileingriff zur verfahrensfesten Selbstbestimmung",
+      "items": [
+        "1894 Körperverletzung",
+        "1958 Selbstbestimmung",
+        "1972–98 Vertraulichkeit und Akte",
+        "2010–20 Lebensende",
+        "2011–24 Zwang und Fixierung",
+        "2021–25 Triage",
+        "2023–25 Daten und Dokumentation"
+      ]
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 01/20",
+      "title": "Einwilligung & Strafrecht · Aufklärung & Einwilligung",
+      "cases": [
+        {
+          "head": "Reichsgericht · 31.05.1894 · RGSt 25, 375 · Fußamputationsfall: Der Heileingriff als Körperverletzung",
+          "body": "Tenor/Leitsatzkern: Historischer Ausgangspunkt: Auch ein fachgerecht und heilend vorgenommener körperlicher Eingriff erfüllt den Körperverletzungstatbestand; legitimiert wird er grundsätzlich durch wirksame Einwilligung. Tragende Aussage: Der ärztliche Zweck beseitigt den Eingriffscharakter nicht. Damit wurden Einwilligung und Patientenwille zu eigenständigen Voraussetzungen rechtmäßiger Behandlung. Praxis: Vor jeder nicht notfallbedingten invasiven Maßnahme müssen Indikation, Einwilligungsfähigkeit, Aufklärung und Einwilligung getrennt geprüft und dokumentiert werden. Rechtsstand: Historische Leitentscheidung; heutige Dogmatik über §§ 223, 228 StGB und §§ 630d, 630e BGB."
+        },
+        {
+          "head": "BGH · 09.12.1958 · VI ZR 203/57 · Selbstbestimmungsaufklärung als Grenze ärztlicher Therapiefreiheit",
+          "body": "Tenor/Leitsatzkern: Das therapeutische Bemühen endet dort, wo es mit dem Recht des Patienten kollidiert, selbst über den eigenen Körper zu bestimmen. Tragende Aussage: Der Patient muss Art und Folgen des Eingriffs im Großen und Ganzen verstehen können. Das Urteil wurde zum Ausgangspunkt der zivilrechtlichen Aufklärungsrechtsprechung. Praxis: Aufklärung ist keine Unterschriftensammlung, sondern ermöglicht eine autonome Entscheidung; Inhalt, Gespräch und besondere Rückfragen müssen nachvollziehbar sein. Rechtsstand: Historische Grundsatzentscheidung; heute in §§ 630d, 630e BGB fortentwickelt und kodifiziert."
+        }
+      ],
+      "source": "https://www.jura.uni-wuerzburg.de/fileadmin/02150400/2021/Schuster_OstAStrR_4_2018_213-227.pdf · https://dejure.org/1958,126"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 02/20",
+      "title": "Schweigepflicht & Datenschutz · Dokumentation & Akteneinsicht",
+      "cases": [
+        {
+          "head": "BVerfG · 08.03.1972 · 2 BvR 28/71 · Ärztliche Schweigepflicht und Vertrauensschutz",
+          "body": "Tenor/Leitsatzkern: Gesundheitsdaten gehören zur geschützten Privatsphäre; Zeugnisverweigerungs- und Beschlagnahmeschutz sichern das für Behandlung notwendige Vertrauen. Tragende Aussage: Das Vertrauensverhältnis zwischen Arzt und Patient besitzt verfassungsrechtliches Gewicht. Staatliche Informationszugriffe benötigen eine tragfähige gesetzliche Grundlage und Verhältnismäßigkeit. Praxis: Bei Polizei-, Staatsanwaltschafts- oder Gerichtsankontakt keine Akten spontan herausgeben: Rolle, Rechtsgrundlage, Beschlagnahmeschutz und Freigabe durch zuständige Stellen prüfen. Rechtsstand: BVerfGE 32, 373; fortwirkende Grundlage der verfassungsrechtlichen Schweigepflichtdogmatik."
+        },
+        {
+          "head": "BVerfG · 16.09.1998 · 1 BvR 1130/98 · Persönlichkeitsrechtlicher Zugang zu Behandlungsunterlagen",
+          "body": "Tenor/Leitsatzkern: Selbstbestimmung und Menschenwürde sprechen grundsätzlich für den Zugang des Patienten zu den ihn betreffenden Krankenunterlagen. Tragende Aussage: Gerade psychiatrische Unterlagen können widerstreitende Belange enthalten; Beschränkungen verlangen aber eine konkrete, nachvollziehbare Abwägung statt pauschaler Verweigerung. Praxis: Akteneinsicht ist der Regelfall. Ausnahmen müssen fallbezogen begründet, auf das Erforderliche begrenzt und möglichst durch mildere Formen der Einsicht umgesetzt werden. Rechtsstand: Verfassungsrechtlicher Vorläufer von § 630g BGB und Art. 15 DSGVO."
+        }
+      ],
+      "source": "https://www.servat.unibe.ch/dfr/bv032373.html · https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1998/09/rk19980916_1bvr113098.html"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 03/20",
+      "title": "Dokumentation & Akteneinsicht · Aufklärung & Einwilligung",
+      "cases": [
+        {
+          "head": "EuGH · 26.10.2023 · C-307/22 · Erste Kopie der Patientenakte grundsätzlich kostenlos",
+          "body": "Tenor/Leitsatzkern: Die erste Kopie personenbezogener Daten in der Patientenakte ist grundsätzlich kostenlos; ein Patient muss seinen Antrag nicht begründen. Tragende Aussage: Die Kopie muss vollständig und verständlich genug sein, damit die betroffene Person ihre Datenschutzrechte wirksam ausüben kann; nationale Kostenvorschriften dürfen dieses Recht nicht aushöhlen. Praxis: Auskunfts- und Kopieprozesse organisatorisch trennen, Identität prüfen, Fristen steuern und eine verständliche, vollständige Erstkopie ohne pauschale Kostenforderung bereitstellen. Rechtsstand: ECLI:EU:C:2023:811; verbindliche Auslegung von Art. 12 und 15 DSGVO."
+        },
+        {
+          "head": "BGH · 15.02.2000 · VI ZR 48/99 · Aufklärung bei Routineimpfungen",
+          "body": "Tenor/Leitsatzkern: Bei öffentlich empfohlenen Routineimpfungen kann schriftliche Information genügen, wenn eine reale Gelegenheit zum ärztlichen Gespräch besteht. Tragende Aussage: Nicht die statistische Häufigkeit allein entscheidet über die Aufklärung, sondern Eingriffsspezifik und Gewicht des Risikos für die Lebensführung. Praxis: Informationsblatt rechtzeitig aushändigen, Gesprächsmöglichkeit aktiv eröffnen, Kontraindikationen erheben und individuelle Fragen dokumentieren. Rechtsstand: BGHZ 144, 1; prägende Aufklärungsentscheidung."
+        }
+      ],
+      "source": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-10/cp230161en.pdf · https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Gericht=bgh&anz=1&nr=23581&pos=0&sid=66713b12585987861bc84df6d5254037"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 04/20",
+      "title": "Aufklärung & Innovation · Aufklärung & Einwilligung",
+      "cases": [
+        {
+          "head": "BGH · 13.06.2006 · VI ZR 323/04 · Robodoc: Aufklärung über eine neue Behandlungsmethode",
+          "body": "Tenor/Leitsatzkern: Bei einer neuen Methode muss der Patient eindeutig auf unbekannte Risiken und auf die etablierte Behandlungsalternative hingewiesen werden. Tragende Aussage: Innovative Behandlung ist nicht schon wegen fehlender Langzeiterfahrung fehlerhaft. Ihre besonderen Unsicherheiten verändern aber die Vergleichs- und Risikoaufklärung. Praxis: Innovationsgrad, Evidenzlücken, Alternativen, Lernkurve und institutionelle Erfahrung ausdrücklich ansprechen; Marketingbegriffe vermeiden. Rechtsstand: Leitentscheidung zur Neuland- und Methodenaufklärung."
+        },
+        {
+          "head": "BGH · 19.07.2016 · VI ZR 75/15 · Einwilligung kann an einen bestimmten Operateur gebunden sein",
+          "body": "Tenor/Leitsatzkern: Ist die Einwilligung erkennbar auf einen bestimmten Operateur beschränkt, rechtfertigt sie den Eingriff durch einen anderen Arzt nicht. Tragende Aussage: Der Einwand, der Eingriff wäre durch den gewünschten Arzt ebenfalls erfolgt, ersetzt die fehlende konkrete Einwilligung nicht. Praxis: Arztwahl, Vertreterregelung und kurzfristige Änderungen vor dem Eingriff offen ansprechen und eine neue Entscheidung ermöglichen. Rechtsstand: Konkretisierung der Reichweite einer Einwilligung."
+        }
+      ],
+      "source": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2006/2006089.html · https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-7-19&Gericht=bgh&anz=17&nr=75613&pos=13"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 05/20",
+      "title": "Aufklärung & Einwilligung · Arzthaftung & Beweis",
+      "cases": [
+        {
+          "head": "BGH · 20.12.2022 · VI ZR 375/21 · Rechtzeitige Aufklärung ohne starre Sperrfrist",
+          "body": "Tenor/Leitsatzkern: § 630e BGB verlangt genügend Zeit für eine wohlüberlegte Entscheidung, aber keinen starren Mindestabstand zwischen Gespräch und Einwilligung. Tragende Aussage: Ob der Patient sofort entscheiden kann oder Bedenkzeit benötigt, hängt von der konkreten Situation ab; erkennbare Überforderung oder Bedenkzeitwünsche dürfen nicht übergangen werden. Praxis: Nicht allein Datum und Uhrzeit dokumentieren, sondern Entscheidungsraum, Dringlichkeit, Fragen und geäußerten Wunsch nach Bedenkzeit. Rechtsstand: BGHZ 236, 42; maßgebliche Auslegung von § 630e Abs. 2 Satz 1 Nr. 2 BGB."
+        },
+        {
+          "head": "BGH · 27.04.2004 · VI ZR 34/03 · Grober Behandlungsfehler und Kausalitätsbeweis",
+          "body": "Tenor/Leitsatzkern: Ein grober Fehler kehrt den Kausalitätsbeweis um, wenn er generell geeignet ist, den eingetretenen Gesundheitsschaden herbeizuführen. Tragende Aussage: Es ist nicht zusätzlich erforderlich, dass genau dieser Verlauf besonders wahrscheinlich war. Die Grobheit ist eine juristische Wertung auf sachverständiger Tatsachengrundlage. Praxis: Standardabweichung, medizinische Unverständlichkeit und generelle Schadenseignung getrennt vortragen und in die Beweisfrage übersetzen. Rechtsstand: Später in § 630h Abs. 5 BGB aufgegriffen."
+        }
+      ],
+      "source": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&anz=3168&nr=132534&pos=29 · https://dejure.org/2004,174"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 06/20",
+      "title": "Arzthaftung & Beweis",
+      "cases": [
+        {
+          "head": "BGH · 20.03.2007 · VI ZR 158/06 · Voll beherrschbares Risiko bei Infektionsübertragung",
+          "body": "Tenor/Leitsatzkern: Verwirklicht sich ein Risiko aus einem organisatorisch vollständig beherrschbaren Bereich, muss die Behandlungsseite darlegen und beweisen, dass sie die gebotenen Maßnahmen eingehalten hat. Tragende Aussage: Die Beweiserleichterung knüpft nicht an jedes schlechte Ergebnis, sondern an eine Gefahr an, die dem Einfluss- und Organisationsbereich der Behandlungsseite zugeordnet werden kann. Praxis: Hygiene-, Geräte-, Lagerungs- und Organisationsmaßnahmen so gestalten und dokumentieren, dass der beherrschte Risikobereich tatsächlich rekonstruierbar bleibt. Rechtsstand: Prägende Vorläuferentscheidung zu § 630h Abs. 1 BGB."
+        },
+        {
+          "head": "BGH · 16.08.2016 · VI ZR 634/15 · Sekundäre Darlegungslast bei behaupteten Hygienemängeln",
+          "body": "Tenor/Leitsatzkern: Patienten dürfen konkrete Anhaltspunkte für Hygieneverstöße vortragen; die Behandlungsseite muss dann die nur intern bekannten Organisations- und Hygienemaßnahmen substantiiert erläutern. Tragende Aussage: Die Patientenseite muss nicht interne Abläufe beweisen, zu denen sie keinen Zugang hat. Die Klinik trägt aber nicht automatisch die volle Beweislast für jede Infektion. Praxis: Hygienepläne allein genügen nicht: Umsetzung, Verantwortlichkeit, Kontrollen, Schulung und Abweichungsmanagement müssen belegbar sein. Rechtsstand: Leitentscheidung zur abgestuften Darlegungslast."
+        }
+      ],
+      "source": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2007-3-20&Gericht=bgh&Sort=1&anz=14&nr=39610&pos=8 · https://dejure.org/dienste/vernetzung/rechtsprechung?Aktenzeichen=VI+ZR+634%2F15&Datum=2016-08-16&Gericht=BGH"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 07/20",
+      "title": "Dokumentation & Beweis · Zivilprozess & Sachverständige",
+      "cases": [
+        {
+          "head": "BGH · 27.04.2021 · VI ZR 84/19 · Änderungssicherheit elektronischer Dokumentation",
+          "body": "Tenor/Leitsatzkern: Eine nachträglich unbemerkt veränderbare elektronische Dokumentation besitzt nicht ohne Weiteres die übliche positive Indizwirkung. Tragende Aussage: Fehlende Änderungssicherheit führt nicht automatisch zur Vermutung des § 630h Abs. 3 BGB; das Gericht muss den Beweiswert im Einzelfall würdigen. Praxis: Audit-Trail, Zeitstempel, Autorenzuordnung und transparente Korrekturen entscheiden über die spätere Beweisqualität des KIS. Rechtsstand: Zentrale Entscheidung zu § 630f BGB und digitaler Beweiswürdigung."
+        },
+        {
+          "head": "BGH · 07.05.2019 · VI ZR 257/17 · Recht auf mündliche Anhörung des Sachverständigen",
+          "body": "Tenor/Leitsatzkern: Ein rechtzeitig gestellter Antrag auf Anhörung darf nicht deshalb abgelehnt werden, weil das Gericht selbst keinen weiteren Erläuterungsbedarf sieht. Tragende Aussage: Das Fragerecht konkretisiert den Anspruch auf rechtliches Gehör und gilt unabhängig davon, ob das schriftliche Gutachten dem Gericht bereits überzeugend erscheint. Praxis: Fragen frühzeitig, fallbezogen und medizinisch präzise formulieren; Widersprüche, Anknüpfungstatsachen und Alternativhypothesen sichtbar machen. Rechtsstand: Verfahrensrechtliche Schlüsselfall für Arzthaftungsprozesse."
+        }
+      ],
+      "source": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2021-4&Gericht=bgh&Seite=7&Sort=1&anz=308&nr=119134&pos=218 · https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2019-5&Gericht=bgh&Seite=2&Sort=3074&anz=208&nr=56246&pos=75"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 08/20",
+      "title": "Standard & Defensive Medizin · Behandlungsfehler & Information",
+      "cases": [
+        {
+          "head": "BGH · 15.04.2014 · VI ZR 382/12 · Leitlinie ist nicht automatisch medizinischer Standard",
+          "body": "Tenor/Leitsatzkern: Leitlinien können Erkenntnisse bündeln, ersetzen aber nicht die sachverständige Feststellung des zum Behandlungszeitpunkt geschuldeten Standards. Tragende Aussage: Eine Leitlinie kann dem Standard voraus- oder hinterherlaufen. Entscheidend bleiben wissenschaftliche Erkenntnis, praktische Bewährung und konkrete Behandlungssituation. Praxis: Nicht nur „leitliniengerecht“ dokumentieren, sondern die patientenbezogenen Gründe für Anwendung oder begründete Abweichung. Rechtsstand: Leitentscheidung gegen schematische Absicherungsmedizin."
+        },
+        {
+          "head": "BGH · 17.11.2015 · VI ZR 476/14 · Unterlassener Dringlichkeitshinweis",
+          "body": "Tenor/Leitsatzkern: Eine unterlassene Information über die Dringlichkeit weiterer Maßnahmen ist grundsätzlich ein Fehler therapeutischer Information, nicht automatisch ein Befunderhebungsfehler. Tragende Aussage: Die rechtliche Fehlerkategorie entscheidet über mögliche Beweiserleichterungen; derselbe Kommunikationsmangel darf nicht ohne Prüfung umetikettiert werden. Praxis: Dringlichkeit, konkrete nächste Schritte, Warnzeichen und Rückkehrschwelle verständlich mitteilen und dokumentieren. Rechtsstand: Wichtige Abgrenzungsentscheidung zu § 630c BGB und § 630h BGB."
+        }
+      ],
+      "source": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-4&Gericht=bgh&Seite=5&Sort=1026&anz=263&nr=67688&pos=177 · https://dejure.org/2015,41290"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 09/20",
+      "title": "Verjährung & Verfahren · Lebensende & Patientenwille",
+      "cases": [
+        {
+          "head": "BGH · 10.11.2009 · VI ZR 247/08 · Kenntnisabhängiger Verjährungsbeginn im Arzthaftungsrecht",
+          "body": "Tenor/Leitsatzkern: Ein negatives Behandlungsergebnis allein vermittelt noch keine Kenntnis von einer möglichen Pflichtverletzung. Tragende Aussage: Erforderlich sind Tatsachen, aus denen sich auch für einen medizinischen Laien eine Abweichung vom geschuldeten Vorgehen ergeben kann; ein fertiges Gutachten ist nicht stets nötig. Praxis: Kenntnisereignisse mit Datum dokumentieren und Verjährung nie nur am Schadenseintritt oder erst am Gutachten festmachen. Rechtsstand: Leitentscheidung zu § 199 Abs. 1 BGB in Arzthaftungssachen."
+        },
+        {
+          "head": "BGH · 13.09.1994 · 1 StR 357/94 · Kemptener Fall: mutmaßlicher Wille beim Behandlungsabbruch",
+          "body": "Tenor/Leitsatzkern: Ein Behandlungsabbruch kann auch vor unmittelbarer Todesnähe zulässig sein, wenn er dem sorgfältig ermittelten mutmaßlichen Willen des nicht entscheidungsfähigen Patienten entspricht. Tragende Aussage: Frühere Äußerungen, Wertvorstellungen und konkrete Lebensentscheidungen haben Vorrang; fehlen individuelle Anhaltspunkte, gilt eine strenge Zweifelsregel zugunsten des Lebensschutzes. Praxis: Nicht eigene Vorstellungen von Lebensqualität einsetzen: Patientenwille strukturiert ermitteln, Quellen benennen und Unsicherheiten offen dokumentieren. Rechtsstand: Historische Leitentscheidung; verfahrensrechtlich und dogmatisch später durch Patientenverfügungsgesetz und Putz-Fall fortentwickelt."
+        }
+      ],
+      "source": "https://dejure.org/2009,592 · https://www.hrr-strafrecht.de/hrr/1/94/1-357-94.php"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 10/20",
+      "title": "Lebensende & Patientenwille",
+      "cases": [
+        {
+          "head": "BGH · 25.06.2010 · 2 StR 454/09 · Putz-Fall: rechtmäßiger Behandlungsabbruch",
+          "body": "Tenor/Leitsatzkern: Der Abbruch einer lebenserhaltenden Behandlung kann durch Unterlassen oder aktives Tun gerechtfertigt sein, wenn er dem tatsächlichen oder mutmaßlichen Patientenwillen entspricht. Tragende Aussage: Entscheidend ist der Bezug zur Beendigung einer medizinischen Behandlung und zum tödlichen Krankheitsprozess; eine davon gelöste gezielte Tötung bleibt unzulässig. Praxis: Indikation, Wille, Behandlungszieländerung, Zuständigkeit und konkreten Ablauf interprofessionell klären und dokumentieren. Rechtsstand: BGHSt 55, 191; zentrale strafrechtliche Leitentscheidung zum Behandlungsabbruch."
+        },
+        {
+          "head": "BGH · 06.07.2016 · XII ZB 61/16 · Patientenverfügung muss Behandlungssituation konkret erfassen",
+          "body": "Tenor/Leitsatzkern: Die bloße Formel, keine lebenserhaltenden Maßnahmen zu wünschen, bindet nicht ohne hinreichende Konkretisierung von Behandlung und Lebenssituation. Tragende Aussage: Konkretisierung kann sich aus dem Gesamtzusammenhang der Erklärung und weiteren Äußerungen ergeben; starre medizinische Detailkenntnis wird nicht verlangt. Praxis: Patientenverfügungen nicht mit einem Satz abhaken: Maßnahmen, Situationen und ergänzende Wertäußerungen gemeinsam auslegen. Rechtsstand: Grundsatzentscheidung zur Bestimmtheit nach § 1901a BGB a.F.; heute § 1827 BGB."
+        }
+      ],
+      "source": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Gericht=bgh&anz=2&nr=52999&pos=1&sid=59e71abacc0d791b04c31d71800b71af · https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2016&Gericht=bgh&Sort=3&anz=136&file=dokument.pdf&linked=bes&nr=75565&pos=0"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-spotlight",
+      "eyebrow": "LEITENTSCHEIDUNG · BVERFG",
+      "title": "§ 217 StGB nichtig: Recht auf selbstbestimmtes Sterben",
+      "subtitle": "BVerfG · 26.02.2020 · 2 BvR 2347/15 u. a.",
+      "lead": "§ 217 StGB in der damaligen Fassung ist mit dem Grundgesetz unvereinbar und nichtig.",
+      "body": "Das allgemeine Persönlichkeitsrecht umfasst die Freiheit, über das eigene Lebensende zu entscheiden, das Leben eigenhändig zu beenden und hierfür freiwillige Hilfe Dritter zu suchen und anzunehmen.",
+      "items": [
+        {
+          "head": "Praxis",
+          "body": "Suizidwunsch, Einwilligungsfähigkeit, Freiverantwortlichkeit, Information, Alternativen und mögliche Drucklagen sorgfältig prüfen; aus der Nichtigkeit folgt weder ein Behandlungsanspruch noch eine individuelle Hilfspflicht."
+        },
+        {
+          "head": "Rechtsstand",
+          "body": "§ 217 StGB wird im Gesetzesportal noch mit Nichtigkeitsvermerk angezeigt, ist aber nicht anwendbar; 2023 scheiterten neue Entwürfe im Bundestag."
+        }
+      ],
+      "source": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/02/rs20200226_2bvr234715.html"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 12/20",
+      "title": "Lebensende & Patientenwille · Suizidhilfe & Selbstbestimmung",
+      "cases": [
+        {
+          "head": "BGH · 08.02.2017 · XII ZB 604/15 · Gesamtauslegung einer Patientenverfügung",
+          "body": "Tenor/Leitsatzkern: Eine Patientenverfügung ist bindend, wenn sie konkrete Maßnahmen in einer hinreichend bestimmten Behandlungssituation erfasst; ihr gesamter Inhalt ist auszulegen. Tragende Aussage: Auch ergänzende schriftliche und mündliche Äußerungen können die Reichweite konkretisieren. Maßstab bleibt der individuelle Wille, nicht eine abstrakte Nutzenbewertung. Praxis: Originaldokument, Vollmachten, frühere Gespräche und aktuelle medizinische Situation in einer nachvollziehbaren Willensrekonstruktion zusammenführen. Rechtsstand: Fortführung von XII ZB 61/16."
+        },
+        {
+          "head": "BGH · 28.06.2022 · 6 StR 68/21 · Freiverantwortlicher Suizid und Garantenpflicht",
+          "body": "Tenor/Leitsatzkern: Ein freiverantwortlicher, ernsthafter Suizidentschluss kann eine Pflicht naher Angehöriger zur Rettung gegen den erklärten Willen entfallen lassen. Tragende Aussage: Entscheidend ist eine normative Prüfung der Freiverantwortlichkeit; § 216 StGB und straflose Suizidhilfe müssen voneinander abgegrenzt werden. Praxis: Nicht aus einem einzelnen Satz auf Freiverantwortlichkeit schließen: Entscheidungsfähigkeit, Wissensbasis, Dauerhaftigkeit, Ambivalenz und Einfluss Dritter erfassen. Rechtsstand: Fortentwicklung nach BVerfG 2 BvR 2347/15."
+        }
+      ],
+      "source": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Gericht=bgh&anz=1&nr=77818&pos=0&sid=125fa832b3cae8f7f98ce4bccb602490 · https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Gericht=bgh&anz=1&nr=130875&pos=0&sid=75da7c93f228313cd3def896e2859eca"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 13/20",
+      "title": "Patientenwille & Zwang · Zwang & Freiheitsrechte",
+      "cases": [
+        {
+          "head": "BGH · 05.02.2025 · XII ZB 547/24 · Patientenverfügung kann Zwangsbehandlung ausschließen",
+          "body": "Tenor/Leitsatzkern: Erfasst eine wirksame Patientenverfügung die konkrete Situation und lehnt die Maßnahme ab, darf der Betreuer nicht in eine Zwangsbehandlung einwilligen. Tragende Aussage: Die aktuelle Einwilligungsunfähigkeit beseitigt die Bindung an den vorausverfügten Willen nicht; die gerichtliche Genehmigung ersetzt keine fehlende materielle Befugnis. Praxis: Vor jedem Zwangsantrag Patientenverfügung und frühere Behandlungswünsche vollständig beiziehen und auf konkrete Passung prüfen. Rechtsstand: Aktuelle betreuungsrechtliche Konkretisierung von § 1827 und § 1832 BGB."
+        },
+        {
+          "head": "BVerfG · 23.03.2011 · 2 BvR 882/09 · Zwangsbehandlung als besonders schwerer Grundrechtseingriff",
+          "body": "Tenor/Leitsatzkern: Die damalige gesetzliche Grundlage für die Zwangsbehandlung im Maßregelvollzug genügte den verfassungsrechtlichen Anforderungen nicht. Tragende Aussage: Zwangsbehandlung verlangt krankheitsbedingte Einsichtsunfähigkeit, letzte Mittel, ernsthaften Überzeugungsversuch, Erfolgsaussicht, strikte Verhältnismäßigkeit und wirksame Verfahrenssicherungen. Praxis: Ziel, Einwilligungsfähigkeit, Überzeugungsversuche, mildere Mittel, Nutzen-Risiko-Abwägung, Genehmigung und Überwachung einzeln dokumentieren. Rechtsstand: Grundsatzentscheidung; Maßstab für spätere Zwangsbehandlungsrechtsprechung."
+        }
+      ],
+      "source": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Seite=2&Sort=14&anz=1045&nr=141487&pos=68 · https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/03/rs20110323_2bvr088209.html"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 14/20",
+      "title": "Zwang & Freiheitsrechte",
+      "cases": [
+        {
+          "head": "BVerfG · 26.07.2016 · 1 BvL 8/15 · Staatliche Schutzpflicht bei nicht einwilligungsfähigen Patienten",
+          "body": "Tenor/Leitsatzkern: Der Staat muss unter strengen Voraussetzungen eine Behandlung ermöglichen, wenn ein nicht einwilligungsfähiger Betroffener sonst erhebliche Gesundheitsschäden erleidet. Tragende Aussage: Autonomie und Schutzpflicht stehen nicht schematisch gegeneinander. Maßgeblich sind natürlicher Wille, frühere autonome Entscheidung, Dringlichkeit, Erfolgsaussicht und Verhältnismäßigkeit. Praxis: Zwang nie allein mit ‚Patientenwohl‘ begründen; vorausverfügten Willen, Einwilligungsfähigkeit und konkrete Schadensprognose priorisiert klären. Rechtsstand: Leitentscheidung zur grundrechtlichen Schutzpflicht im Betreuungsrecht."
+        },
+        {
+          "head": "BVerfG · 24.07.2018 · 2 BvR 309/15; 2 BvR 502/16 · Fünf- und Sieben-Punkt-Fixierung als Freiheitsentziehung",
+          "body": "Tenor/Leitsatzkern: Eine nicht nur kurzfristige Fünf- oder Sieben-Punkt-Fixierung ist eine eigenständige Freiheitsentziehung und bedarf grundsätzlich richterlicher Entscheidung. Tragende Aussage: Auch eine bereits untergebrachte Person kann durch zusätzliche Fixierung erneut in ihrer Freiheit entzogen werden; strikte Verhältnismäßigkeit, Überwachung und Dokumentation sind erforderlich. Praxis: Akutmaßnahme, richterliche Genehmigung, Dauer, Eins-zu-eins-Betreuung, Kontrollen und Beendigungskriterien prozesssicher organisieren. Rechtsstand: BVerfGE 149, 293; maßgebliche Fixierungsentscheidung."
+        }
+      ],
+      "source": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/07/ls20160726_1bvl000815.html · https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/07/rs20180724_2bvr030915.html"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 15/20",
+      "title": "Zwang & Freiheitsrechte · Triage & Diskriminierung",
+      "cases": [
+        {
+          "head": "BVerfG · 26.11.2024 · 1 BvL 1/24 · Absolute Krankenhausbindung der Zwangsbehandlung verfassungswidrig",
+          "body": "Tenor/Leitsatzkern: § 1832 Abs. 1 Satz 1 Nr. 7 BGB ist teilweise unvereinbar mit dem Grundgesetz, soweit er eine Behandlung außerhalb des Krankenhauses ausnahmslos ausschließt. Tragende Aussage: Die Krankenhausbindung kann in atypischen Fällen unverhältnismäßig sein, wenn ein anderer geeigneter Ort weniger belastend und gleich sicher ist. Praxis: Bis zur Neuregelung gilt die Übergangsregelung; Ort, Sicherheit, Belastung, Alternativen und Versorgungsfähigkeit konkret prüfen. Rechtsstand: Fortgeltung der bisherigen Regelung längstens bis 31.12.2026; Gesetzgebung beobachten."
+        },
+        {
+          "head": "BVerfG · 16.12.2021 · 1 BvR 1541/20 · Triage I: Schutz vor Benachteiligung wegen Behinderung",
+          "body": "Tenor/Leitsatzkern: Der Gesetzgeber verletzte seine Schutzpflicht, weil hinreichende Vorkehrungen gegen behinderungsbedingte Benachteiligung bei pandemischer Zuteilung knapper Intensivressourcen fehlten. Tragende Aussage: Art. 3 Abs. 3 Satz 2 GG begründet in der extremen Zuteilungslage eine konkrete Schutzpflicht; behinderungsbezogene Vorannahmen dürfen die Erfolgsaussicht nicht verzerren. Praxis: Klinische Kriterien, Mehr-Augen-Prinzip, Dokumentation und diskriminierungssensible Prognostik verbinden; keine pauschalen Lebensqualitäts- oder Langzeitprognosen. Rechtsstand: Auslöser für § 5c IfSG; dessen Kompetenzgrundlage wurde 2025 in Triage II verworfen."
+        }
+      ],
+      "source": "https://bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241126_1bvl000124.html · https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/12/rs20211216_1bvr154120.html"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 16/20",
+      "title": "Triage & Therapiefreiheit · Infektionsschutz & Elternrecht",
+      "cases": [
+        {
+          "head": "BVerfG · 23.09.2025 · 1 BvR 2284/23; 1 BvR 2285/23 · Triage II: § 5c IfSG nichtig",
+          "body": "Tenor/Leitsatzkern: § 5c IfSG ist mangels Gesetzgebungskompetenz des Bundes nichtig. Tragende Aussage: Art. 12 Abs. 1 GG schützt die ärztliche Therapiefreiheit einschließlich der Entscheidung, ob und nach welchen fachlichen Kriterien behandelt wird; Beschränkungen benötigen die zuständige Gesetzgebungsebene. Praxis: Die Nichtigkeit beseitigt weder Diskriminierungsschutz noch Berufsrecht: aktuelle Landes-, Klinik- und Fachstandards prüfen und Zuteilungsentscheidungen transparent absichern. Rechtsstand: Aktuelle Kompetenz- und Therapiefreiheitsentscheidung; Triage I bleibt für die Schutzpflicht maßgeblich."
+        },
+        {
+          "head": "BVerfG · 21.07.2022 · 1 BvR 469/20 u. a. · Masernschutzgesetz verfassungsgemäß",
+          "body": "Tenor/Leitsatzkern: Die Nachweispflicht für eine Masernschutzimpfung bei betreuten Kindern ist verfassungsrechtlich gerechtfertigt. Tragende Aussage: Die Eingriffe in Elternrecht und körperliche Unversehrtheit werden durch den Schutz vulnerabler Personen und des Kindeswohls getragen; Eltern können medizinische Vernunftgrenzen nicht beliebig verschieben. Praxis: Impfindikation, Kontraindikation und Nachweis sauber trennen; Konflikte respektvoll erklären und gesetzliche Folgen nicht als medizinischen Zwang missverstehen. Rechtsstand: BVerfGE 162, 378."
+        }
+      ],
+      "source": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250923_1bvr228423.html · https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/07/rs20220721_1bvr046920.html"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 17/20",
+      "title": "Reproduktionsmedizin & Lebensschutz · Reproduktionsmedizin & Haftung",
+      "cases": [
+        {
+          "head": "BVerfG · 28.05.1993 · 2 BvF 2/90 u. a. · Schwangerschaftsabbruch II und Beratungskonzept",
+          "body": "Tenor/Leitsatzkern: Das Grundgesetz verpflichtet den Staat zum Schutz ungeborenen Lebens; ein Beratungskonzept ist nur bei effektiver Schutzorientierung verfassungsrechtlich tragfähig. Tragende Aussage: Die Entscheidung ordnet Lebensschutz, Selbstbestimmung, Beratung, Indikationslagen und ärztliche Mitwirkung in ein abgestuftes Schutzkonzept ein. Praxis: Medizinische Beratung, psychosoziale Beratung, gesetzliche Fristen und strafrechtliche Voraussetzungen strikt unterscheiden; keine moralische Kurzformel ersetzt die Normprüfung. Rechtsstand: BVerfGE 88, 203; prägende verfassungsrechtliche Grundsatzentscheidung."
+        },
+        {
+          "head": "BVerfG · 12.11.1997 · 1 BvR 479/92; 1 BvR 307/94 · Unterhaltsschaden nach fehlgeschlagener Sterilisation",
+          "body": "Tenor/Leitsatzkern: Zivilrechtlicher Schadensersatz wegen fehlerhafter Sterilisation oder genetischer Beratung verletzt nicht die Menschenwürde des geborenen Kindes. Tragende Aussage: Das Kind selbst wird nicht als Schaden bewertet; ersetzt werden kann die wirtschaftliche Belastung, die infolge einer ärztlichen Pflichtverletzung entgegen der Familienplanung entsteht. Praxis: Bei reproduktionsmedizinischen Haftungsfällen Personwürde, Primärverletzung, vermögensrechtliche Folgen und Schutzzweck sauber auseinanderhalten. Rechtsstand: BVerfGE 96, 375."
+        }
+      ],
+      "source": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1993/05/fs19930528_2bvf000290.html · https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1997/11/rs19971112_1bvr047992.html"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 18/20",
+      "title": "Reproduktionsmedizin & Embryonenschutz · Transplantationsmedizin & Strafrecht",
+      "cases": [
+        {
+          "head": "BGH · 06.07.2010 · 5 StR 386/09 · Präimplantationsdiagnostik unter dem damaligen Embryonenschutzgesetz",
+          "body": "Tenor/Leitsatzkern: Die untersuchte PID-Konstellation zur Erkennung schwerer genetischer Schäden war nach der damaligen Gesetzeslage nicht strafbar. Tragende Aussage: Der BGH legte den Embryonenbegriff und die untersuchten Zellstadien eng am Strafgesetz aus; die Entscheidung führte zu einer ausdrücklichen gesetzlichen Neuregelung. Praxis: In Spezialmaterien nie aus Ethik unmittelbar auf Strafbarkeit schließen: Tatbestand, Zellstadium, Zweck, Verfahrensvorgaben und aktuelle Gesetzesfassung getrennt prüfen. Rechtsstand: Historische Auslegung; heute § 3a ESchG und PIDV beachten."
+        },
+        {
+          "head": "BGH · 28.06.2017 · 5 StR 20/16 · Manipulation von Wartelisten und strafrechtliches Gesetzlichkeitsprinzip",
+          "body": "Tenor/Leitsatzkern: Richtlinienverstöße der Bundesärztekammer begründen nicht ohne Weiteres eine Strafbarkeit wegen Tötungsdelikten. Tragende Aussage: Strafrechtliche Zurechnung verlangt gesetzliche Tatbestände, konkrete Kausalität und Vorsatz; medizinische Allokationsregeln dürfen nicht unbesehen zu Strafnormen werden. Praxis: Allokationsregeln strikt befolgen und dokumentieren, strafrechtliche Bewertung aber getrennt nach Tatbestand, Kausalität und subjektiver Seite vornehmen. Rechtsstand: Prägende Entscheidung zu Transplantationsrichtlinien und Art. 103 Abs. 2 GG."
+        }
+      ],
+      "source": "https://www.bundesgerichtshof.de/SharedDocs/Downloads/DE/Bibliothek/Gesetzesmaterialien/17_wp/PID/5StR38609.pdf?__blob=publicationFile · https://dejure.org/dienste/vernetzung/rechtsprechung?Aktenzeichen=5+StR+20%2F16&Datum=28.06.2017&Gericht=BGH"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 19/20",
+      "title": "Transplantationsmedizin & Aufklärung · Approbation & Berufsrecht",
+      "cases": [
+        {
+          "head": "BGH · 29.01.2019 · VI ZR 495/16 · Strenge Aufklärung bei der Lebendorganspende",
+          "body": "Tenor/Leitsatzkern: Die besonderen Aufklärungs- und Verfahrensvorgaben des TPG schützen die freie Spenderentscheidung; bei inhaltlichen Defiziten greift der Einwand hypothetischer Einwilligung nicht ohne Weiteres. Tragende Aussage: Form- und Verfahrensmängel beeinflussen die Beweiswürdigung. Bei der altruistischen Spende ist die Entscheidung besonders vor Druck, Verharmlosung und unvollständiger Risikoaufklärung zu schützen. Praxis: Spender- und Empfängerinteressen institutionell trennen, Risiken und Langzeitfolgen vollständig erklären und unabhängige Prüfung nachvollziehbar dokumentieren. Rechtsstand: Zentrale zivilrechtliche Leitentscheidung zur Lebendspende."
+        },
+        {
+          "head": "BVerwG · 10.09.2020 · 3 C 13.19 · Ruhen der Approbation bei strafrechtlichen Vorwürfen",
+          "body": "Tenor/Leitsatzkern: Eine Anklage führt nicht automatisch zum Ruhen der Approbation; die Behörde muss Tatgrundlage, Berufsbezug, Prognose und Verhältnismäßigkeit eigenständig prüfen. Tragende Aussage: Die vorläufige Gefahrenabwehr darf das Strafverfahren berücksichtigen, aber dessen bloße Existenz ersetzt keine eigene Sachverhalts- und Gefahrenbewertung. Praxis: Strafverteidigung, Berufsrecht, Arbeitsverhältnis und Approbationsverfahren früh koordinieren; Akteneinsicht und Stellungnahmefristen sichern. Rechtsstand: Leitentscheidung zu § 6 Abs. 1 Nr. 1 BÄO."
+        }
+      ],
+      "source": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2018-8&Gericht=bgh&file=dokument.pdf&linked=urt&nr=92766 · https://www.bverwg.de/100920U3C13.19.0"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-pair",
+      "eyebrow": "LEITENTSCHEIDUNGEN · 20/20",
+      "title": "Grenzfall & Verfahrensrecht · Leistungsrecht & neue Methoden",
+      "cases": [
+        {
+          "head": "AG Hersbruck · 16.10.1992 · XVII 1556/92 A · Erlanger Baby: Abwägung im betreuungsgerichtlichen Eilverfahren",
+          "body": "Tenor/Leitsatzkern: Die gerichtliche Entscheidung erschöpfte sich nicht in der Betreuerbestellung: Schutz ungeborenen Lebens, fortwirkender Achtungsanspruch, mutmaßlicher Wille und medizinische Prognose waren unter Zeitdruck abzuwägen. Tragende Aussage: Der Fall zeigt, dass Verfahrenszuständigkeit und Beteiligtenstellung darüber entscheiden, welche Rechtspositionen überhaupt wirksam zur Geltung kommen. Praxis: In Grenzfällen zuerst Akteure, Vertretungsmacht, Entscheidungsgegenstand, Zeitfenster und Tatsachenbasis klären; erst danach materielle Schlagworte gegeneinander abwägen. Rechtsstand: Amtsgerichtliche, aber medizinrechtlich prägende Grenzfallentscheidung; Volltextzugang teilweise beschränkt."
+        },
+        {
+          "head": "BVerfG · 06.12.2005 · 1 BvR 347/98 · Nikolausbeschluss: neue Methode bei lebensbedrohlicher Erkrankung",
+          "body": "Tenor/Leitsatzkern: Bei lebensbedrohlicher oder regelmäßig tödlicher Erkrankung ohne anerkannte Standardtherapie darf eine nicht ganz fernliegende Aussicht auf Besserung nicht schematisch vom GKV-Leistungsanspruch ausgeschlossen werden. Tragende Aussage: Grundrechtsschutz wirkt auf die Auslegung des Leistungsrechts ein, ersetzt aber weder jede Evidenzprüfung noch die Grenzen des gesetzlich ausgestalteten Versorgungssystems. Praxis: Indikation, fehlende Standardalternative, Schweregrad und belastbare Erfolgsaussicht getrennt belegen; keine Gleichsetzung mit freier Methodenwahl. Rechtsstand: BVerfGE 115, 25; gesetzlich in § 2 Abs. 1a SGB V aufgegriffen."
+        }
+      ],
+      "source": "https://dejure.org/1992,4493 · https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/12/rs20051206_1bvr034798.html"
+    },
+    {
+      "type": "content",
+      "layout": "landmark-checklist",
+      "eyebrow": "SUMMA · LEITENTSCHEIDUNGEN ALS PRAXISWERKZEUG",
+      "title": "Die acht Fragen vor dem Beruf auf ein Urteil",
+      "items": [
+        "Aktenzeichen verifiziert?",
+        "Tenor gelesen?",
+        "Tragender Grund?",
+        "Sachverhalt vergleichbar?",
+        "Damals und heute geltende Norm?",
+        "Spätere Fortentwicklung?",
+        "Praktische Verfahrensfolge?",
+        "Unsicherheit transparent?"
+      ],
+      "callout": "Recht bekommen beginnt mit sauberer Subsumtion – und endet erst bei der praktischen Umsetzung."
     },
     {
       "type": "content",
